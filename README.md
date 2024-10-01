@@ -2,6 +2,7 @@
 
 Working on: 💎GemsSMP season 4 and 5💎, 🏳️‍🌈ProjectMirage🏳️‍🌈, Obtainable Amythyst, TerraBlade MC edition, and Ancient Neptunite
 Perivious: 💎Gems SMP seasons 0-3
+
 Knowledge: a bit of C++, a decent chunk of Java, working on Python, C#, and currently a senior in high school
 
 I can be decent at teamwork and can be preety productive when needed
